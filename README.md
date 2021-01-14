@@ -6,14 +6,14 @@ Discuss or share information about internet technology, the benefits of computer
 Managed specifically by the Biraldino Studio team
 
 ## Social Media
-[Youtube:](https://www.youtube.com/c/BiraldinoStudio)
-[Facebook:](https://www.facebook.com/biraldinostudio/)
-[Telegram:](https://t.me/BiraldinoStudio)
-[Instagram:](https://www.instagram.com/biraldino_studio/)
-[LinkedIn:](https://www.linkedin.com/in/biraldino-studio-ab503a1bb/)
-[Github:](https://github.com/biraldinostudio)
+[Youtube,](https://www.youtube.com/c/BiraldinoStudio)
+[Facebook,](https://www.facebook.com/biraldinostudio/)
+[Telegram,](https://t.me/BiraldinoStudio)
+[Instagram,](https://www.instagram.com/biraldino_studio/)
+[LinkedIn,](https://www.linkedin.com/in/biraldino-studio-ab503a1bb/)
+[Shutterstock,](https://www.shutterstock.com/g/BiraldinoStudio)
 
 ## Submission of Cooperation
 
-Pengajuan kerjasama atau mitra silahkan kirim email ke official Biraldino Studio [anggun.biralstud@gmail.com](mailto:anggun.biralstud@gmail.com).
+Submission of cooperation or partners, please send an email to the official Biraldino Studio [anggun.biralstud@gmail.com](mailto:anggun.biralstud@gmail.com).
 
