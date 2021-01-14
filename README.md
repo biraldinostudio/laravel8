@@ -23,10 +23,11 @@ Managed specifically by the Biraldino Studio team
 - [Part13 - Web multi language laravel 8](https://www.youtube.com/watch?v=PoW3pE-N4LY&list=PLWYoAITlWD6MASGMS4fDCIQofCrpBD3Qh&index=15&t=592s)
 
 ## Social Media
+[LinkedIn,](https://www.linkedin.com/in/biraldino-studio-ab503a1bb/)
 [Facebook,](https://www.facebook.com/biraldinostudio/)
 [Telegram,](https://t.me/BiraldinoStudio)
 [Instagram,](https://www.instagram.com/biraldino_studio/)
-[LinkedIn,](https://www.linkedin.com/in/biraldino-studio-ab503a1bb/)
+[Twitter,](https://twitter.com/BiraldinoS)
 [Shutterstock](https://www.shutterstock.com/g/BiraldinoStudio)
 
 ## Submission of Cooperation
