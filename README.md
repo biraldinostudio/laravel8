@@ -11,9 +11,9 @@ Managed specifically by the Biraldino Studio team
 [Telegram,](https://t.me/BiraldinoStudio)
 [Instagram,](https://www.instagram.com/biraldino_studio/)
 [LinkedIn,](https://www.linkedin.com/in/biraldino-studio-ab503a1bb/)
-[Shutterstock,](https://www.shutterstock.com/g/BiraldinoStudio)
+[Shutterstock](https://www.shutterstock.com/g/BiraldinoStudio)
 
 ## Submission of Cooperation
 
-Submission of cooperation or partners, please send an email to the official Biraldino Studio [anggun.biralstud@gmail.com](mailto:anggun.biralstud@gmail.com).
+Submission of cooperation or partners, please send an email to the official Biraldino Studio: [official.biraldinostudio@gmail.com](mailto:official.biraldinostudio@gmail.com).
 
