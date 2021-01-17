@@ -6,6 +6,18 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">  {{__('categories')}}  </a>
+              <ul class="dropdown-menu">
+                @foreach($menu_categories as $category)
+                  <li><a class="dropdown-item" href="#"> {{ $category->name }} @if(count($category->childs)) &raquo @endif</a>
+                    @if(count($category->childs))
+                      @include('layouts.front.inc.menuChild',['childs' => $category->childs])
+                     @endif
+                  </li>
+                @endforeach
+              </ul>
+          </li>
           @guest
           <li class="nav-item">
             <a class="nav-link" href="{{url('/')}}">{{__('article')}}</a>
@@ -71,8 +83,8 @@
             <a href="{{url('locale/en')}}" class="dropdown-item"><img src="{{asset('front/icon/en.png')}}"> {{__('english')}}</a>
           @endif
         </div>
-    </li>
-        </ul>
-      </div>
+      </li>
+    </ul>
     </div>
-  </nav>
+  </div>
+</nav>

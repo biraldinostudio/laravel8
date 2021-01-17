@@ -15,6 +15,7 @@
 
   <!-- Custom styles for this template -->
   <link href="{{asset('front/css/blog-home.css')}}" rel="stylesheet">
+  <link href="{{asset('front/css/multilevelnav.css')}}" rel="stylesheet">
   @stack('styles')
 </head>
 
@@ -51,6 +52,25 @@
   <!-- Bootstrap core JavaScript -->
   <script src="{{asset('front/vendor/jquery/jquery.min.js')}}"></script>
   <script src="{{asset('front/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+  <script>
+    $(document).ready(function() {
+        $(document).on('click', '.dropdown-menu', function (e) {
+          e.stopPropagation();
+        });
+
+        if ($(window).width() < 992) {
+          $('.dropdown-menu a').click(function(e){
+            e.preventDefault();
+              if($(this).next('.submenu').length){
+                $(this).next('.submenu').toggle();
+              }
+              $('.dropdown').on('hide.bs.dropdown', function () {
+                $(this).find('.submenu').hide();
+             })
+          });
+        }
+    });
+  </script>
   @stack('scripts')
 </body>
 

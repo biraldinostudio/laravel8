@@ -18,4 +18,8 @@ class Category extends Model
     public function articlecategory(){
         return $this->hasMany(Article::class);
     }
+
+    public function childs(){
+        return $this->hasMany(Category::class,'parent');
+    }
 }

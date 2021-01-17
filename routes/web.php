@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\WelcomeController;
+use App\Models\Category;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,6 +18,11 @@ use App\Http\Controllers\WelcomeController;
 Route::get('locale/{locale}', function ($locale) {
     \Session::put('locale', $locale);
     return redirect()->back();
+});
+
+View::composer('layouts.front.inc.header', function($view){
+    $categories=Category::where('parent',0)->get();
+    $view->with('menu_categories',$categories);
 });
 
 Route::get('/',[WelcomeController::class,'index']);
