@@ -22,6 +22,7 @@ Managed specifically by the Biraldino Studio team
 - [Part12 - Email Verification Register User Laravel 8](https://www.youtube.com/watch?v=8dKMGntx7lQ&list=PLWYoAITlWD6MASGMS4fDCIQofCrpBD3Qh&index=14)
 - [Part13 - Web multi language laravel 8](https://www.youtube.com/watch?v=PoW3pE-N4LY&list=PLWYoAITlWD6MASGMS4fDCIQofCrpBD3Qh&index=15&t=592s)
 - [Part14 - Menu navigasi multi level dinamis laravel 8](https://www.youtube.com/watch?v=kN1X4vcy1GE&list=PLWYoAITlWD6MASGMS4fDCIQofCrpBD3Qh&index=16)
+- [Part15 - Halaman login administrator laravel 8](https://www.youtube.com/watch?v=2C9A4p5BVds&list=PLWYoAITlWD6MASGMS4fDCIQofCrpBD3Qh&index=17)
 
 ## PHP Framework (Backend)
 [Laravel Framework (version 8)](https://laravel.com/)
