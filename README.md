@@ -6,7 +6,7 @@ Discuss or share information about internet technology, the benefits of computer
 Managed specifically by the Biraldino Studio team
 
 ## Youtube Chanel
-[Biraldino Studio](https://www.youtube.com/c/BiraldinoStudio)
+[Biraldino Studio](https://www.youtube.com/c/[BiraldinoStudio]?sub_confirmation=1)
 
 ## Youtube topic in this project
 - [Part2 - Membuat Route, Controller, View dan Master Layouts Laravel 8](https://www.youtube.com/watch?v=Pb7f78LtddU&list=PLWYoAITlWD6MASGMS4fDCIQofCrpBD3Qh&index=4&t=328s)
